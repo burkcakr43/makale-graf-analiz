@@ -2,7 +2,7 @@
 
 Akademik literatürdeki makaleler arasındaki atıf ilişkilerini modelleyen, analiz eden ve görselleştiren **Java Swing** tabanlı masaüstü uygulaması. JSON formatındaki ham atıf verilerini yönlü bir graf yapısına dönüştürür ve bu graf üzerinde graf teorisi metriklerini uygular.
 
-> Kocaeli Üniversitesi – Bilgisayar Mühendisliği – Programlama Laboratuvarı 3
+> Kocaeli Üniversitesi – Bilgisayar Mühendisliği
 
 ---
 

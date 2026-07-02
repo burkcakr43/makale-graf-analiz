@@ -67,7 +67,7 @@ Yazar/
 ### IntelliJ IDEA ile
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADIN/REPO_ADI.git
+   git clone https://github.com/burkcakr43/makale-graf-analiz.git
    ```
 2. Projeyi IntelliJ IDEA'da açın.
 3. `data.json` dosyasının proje kök dizininde (kaynak klasörünün yanında) olduğundan emin olun.
